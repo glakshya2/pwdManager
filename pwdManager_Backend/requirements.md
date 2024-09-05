@@ -1,0 +1,13 @@
+- API endpoints for:
+  - adding 1 password
+  - finding all passwords
+  - finding list of passwords for one website
+  - finding 1 password by website and username
+  - deleting by website and username
+
+- Database:
+    - id
+    - website
+    - username
+    - password
+    - encryption technique
